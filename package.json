@@ -4,16 +4,15 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "cd src && node server.js",
-      "build": "rm -rf build"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "cd src && node server.js",
+        "build": "rm -rf build"
     },
     "author": "Raj Banker",
     "license": "ISC",
     "dependencies": {
-      "cors": "^2.8.5",
-      "express": "^4.18.2",
-      "uuid": "^9.0.0"
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "uuid": "^9.0.0"
     }
-  }
-  
+}
