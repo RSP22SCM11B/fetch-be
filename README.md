@@ -15,7 +15,7 @@ The document illustrates how to setup the server and make requests to the requir
 ### With Docker
 
 - Make sure you have docker installed on your machine and is running.
-- Clone this repo, and in the root folder follow these steps:
+- Clone this repo, and make sure the present working directory is 1 level above the root folder and follow these steps:
 ```
 docker build ./fetch-be -t rpc:latest
 ```
@@ -148,3 +148,6 @@ Breakdown:
 ```
 
 ---
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/87412217/225404337-0784a771-8617-474c-a534-34479fca6133.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/87412217/225404445-1b7a5057-d5ab-4e26-96c7-d7fb590a4e92.png">
